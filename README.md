@@ -1,5 +1,11 @@
-### Hi there 👋
+### Greetings traveler, I'm Ville (or Kehno) 👋
+![spongehello](https://user-images.githubusercontent.com/42894317/132126954-941326f1-81eb-40a8-9d91-174fe39b8b8e.gif)
 
+- 🏠 Helsinki, Finland 🇫🇮
+- 🏢 Data Engineer, Kaiku Health
+- 🤖 Maining Python 🐍 and Ruby 💎
+- 😕 And dabbling and being confused with many (Go, JS & R)
+- ☁️ AWS & Azure
 <!--
 **imkehno/imkehno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
